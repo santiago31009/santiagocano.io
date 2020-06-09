@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+.top-container {
+    background-color: aquamarine;
+}
+.middle-container {
+    background-color: white;
+}
+.cloud {
+    position: absolute;
+}
+#top-cloud {
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+#pro-pic {
+    width: 30%;
+    border: 10px solid darkred;
+}
+p, h3, a {
+    font-family: 'Comfortaa', cursive;
+}
+h1, h2 {
+    font-family: 'Sacramento', cursive;
+}
+.flaticon {
+    width: 10%;
+}
+.skill-row {
+
+}
